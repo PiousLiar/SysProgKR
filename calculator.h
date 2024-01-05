@@ -11,6 +11,8 @@ class Calculator
         int Add (int, int);
         int Mul (double, double);
 >>>>>>> e0ea21b (add a multiplication operation)
+        double Div (double, double);
+        double abs (double);
 };
 
 #endif//CALCULATOR_H
